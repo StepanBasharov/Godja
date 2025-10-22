@@ -2,6 +2,7 @@
 
 A simple shell for find and exploit jinja2 ssrf injection.
 
+<img src="example.jpg" width="300"></img>
 ### Executing
 ```
 pip install -r requirements.txt
