@@ -3,15 +3,17 @@
 A simple shell for find and exploit jinja2 ssrf injection.
 
 ### Executing
-
 ```
-python3 godja.py -m 2 -u http://example.com
+pip install -r requirements.txt
+```
+```
+python godja.py -m 2 -u http://example.com
 ```
 
 ## Help
 
 ```
-python3 godja.py --help
+python godja.py --help
 ```
 
 
